@@ -74,7 +74,7 @@ const details = (detais)=>{
 
         function date (){
           if(input.releaseDate==""){
-            let gg = `<h5 class="card-text">ReleaseDate: wait for boom.</h5>`
+            let gg = `<h5 class="card-text">ReleaseDate: No Releasase Date Found.</h5>`
             return gg
             
           }
