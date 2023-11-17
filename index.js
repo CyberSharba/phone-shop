@@ -21,6 +21,7 @@ const display =(data)=>{
 
     if(data.length == 0){
         phonedata.innerHTML=`<h1>No sharch Found</h1>`
+       alert('No sharch Found')
         phonedetails.innerHTML=''
     }
     else{
