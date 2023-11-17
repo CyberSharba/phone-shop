@@ -1,0 +1,45 @@
+
+      body{
+        margin-left: auto;
+        margin-right: auto;
+        background-color: rgb(227, 243, 243);
+      }
+      .dd{
+        height: 30ex;
+      }
+      .boxe{
+        margin: auto;
+        padding-left: 30px;
+        padding-right: 15px;
+        
+      }
+      .boxs{
+        margin: auto;
+        padding-left: 15px;
+        padding-right: 15px;
+        
+      }
+      .ll{
+        border: 4px solid rgb(0, 147, 123);
+        box-shadow: 10px 5px 5px rgb(101, 117, 125);
+        border-radius: 18px;
+        background-color: rgb(235, 247, 247);
+        width: 85%;
+        margin-left: auto;
+        margin-right: auto;
+
+       
+
+      }
+      .lk{
+        border: 4px solid rgb(0, 147, 123);
+        box-shadow: 10px 5px 5px rgb(101, 117, 125);
+        border-radius: 18px;
+        background-color: rgb(235, 247, 247);
+        
+
+      }
+      #spiner{
+        display: none;
+    }
+  
